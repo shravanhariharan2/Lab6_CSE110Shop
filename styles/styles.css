@@ -40,11 +40,11 @@ nav {
 }
 
 #shop-icon {
-  content: url("./assets/shop-icon.png"); /* Changed to relative for prod */
+  content: url("../assets/shop-icon.png"); /* Changed to relative for prod */
 }
 
 #cart-icon {
-  content: url("./assets/cart-icon.png"); /* Changed to relative for prod */
+  content: url("../assets/cart-icon.png"); /* Changed to relative for prod */
 }
 
 /* Custom Element CSS starts here */
