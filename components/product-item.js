@@ -93,7 +93,7 @@ class ProductItem extends HTMLElement {
   createStyles() {
     const styleElement = document.createElement('link')
     styleElement.setAttribute('rel', 'stylesheet');
-    styleElement.setAttribute('href', '/styles/styles.css');
+    styleElement.setAttribute('href', './styles/styles.css');
     return styleElement;
   }
 }
